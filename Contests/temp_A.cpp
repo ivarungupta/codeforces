@@ -17,7 +17,7 @@ using namespace std;
 #define pq priority_queue
 #define mp make_pair
 #define MOD 1000000007
-#define FOR(i, a, b) for (int i = a; i < b; i++))
+#define FOR(i, a, b) for (int i = a; i < b; i++)
 
 int main()
 {

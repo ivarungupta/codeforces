@@ -10,7 +10,6 @@ __     _______
 
 #include <bits/stdc++.h>
 using namespace std;
-
 #define ll long long
 #define vec vector
 #define pb push_back
